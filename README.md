@@ -64,7 +64,7 @@ NumPy – Color analysis
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/style-advisor-pro.git
+git clone https://github.com/mahakxd/face-analysis-app.git
 cd style-advisor-pro
 
 2️⃣ Install dependencies:
